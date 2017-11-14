@@ -1,1 +1,12 @@
 how to
+
+git add . // the chang will be on stage
+git commit -m "messages ..." // comfirm the changes
+git push  // comfirm the changes
+
+
+
+
+git rm filename // remove the file under git list
+
+git stash // replace local file from server file
