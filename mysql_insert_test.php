@@ -1,5 +1,5 @@
 <?php
-	
+	// created by Yongtaek Jun
 	// mongodb_insert_test();
 	mysql_insert_test();
 	
